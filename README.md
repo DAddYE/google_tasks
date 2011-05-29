@@ -2,6 +2,12 @@
 
 This gem provides access to google tasks apis
 
+## Install
+
+``` sh
+$ gem install google_tasks
+```
+
 ## Usage
 
 Before start you need **client_id**, **client_secret** and **api_key**, you found it [here](https://code.google.com/apis/console)
